@@ -1,3 +1,0 @@
-# LogitDataScience
-Logit Data Science
-
