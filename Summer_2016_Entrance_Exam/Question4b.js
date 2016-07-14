@@ -9,7 +9,7 @@ function std(A) {
 		var square = diff * diff;
 		return square;		
 	});
-	var sumSquaredDiffs = 0;						//mean of the square of differences between each element and mean
+	var sumSquaredDiffs = 0;				//mean of the square of differences between each element and mean
 	for (j = 0; j < squaredDiffs.length; j++) {
 		sumSquaredDiffs += squaredDiffs[j]
 	}
